@@ -44,11 +44,11 @@ The MedNotify workflow follows these steps:
 
 ## 📧 Sample Email Output
 
-![MedNotify Email Output](email.jpg)
+![MedNotify Email Output](Email.jpg)
 
 ## 🎥 Working Demo
 
-[▶️ Watch MedNotify Working Demo](MedNotifyworking.mp4)
+[▶️ Watch MedNotify Working Demo](MedNotifyworking(2).mp4)
 
 ## 🚀 Future Improvements
 
